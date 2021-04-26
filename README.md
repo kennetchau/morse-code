@@ -1,4 +1,4 @@
-# morse-code
+# morse-code translator
 A morse-code translator
 
 Intro:
